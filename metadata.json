@@ -1,0 +1,8 @@
+{
+  "name": "International Bank of Aaravland",
+  "description": "A professional-grade banking management system featuring customer accounts, employee loan requests, staff onboarding, real-time currency exchange, stock portfolio tracking, and institutional budgeting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
